@@ -1,0 +1,11 @@
+{
+  "org": "PyCQA",
+  "repo": "bandit",
+  "versions": [
+    {
+      "commit": "68ebe11ef79263be27ec223184b94a4fc394a622",
+      "tag": "",
+      "parsed_at": "2026-10-12T22:44:38.014500+00:00"
+    }
+  ]
+}
